@@ -1,3 +1,5 @@
+![node.js.test](https://github.com/HannaAspblad/learn-cool-problems/actions/workflows/node.js.yml/badge.svg)
+
 # Learn about Github Actions
 Follow instructions in Lab 3 slides.
 
